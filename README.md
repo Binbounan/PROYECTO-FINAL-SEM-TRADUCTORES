@@ -8,3 +8,4 @@ CADENA
 
 LEXICO
 ![image alt](https://github.com/Binbounan/PROYECTO-FINAL-SEM-TRADUCTORES/blob/77d2fa8417106f411734e6deb57db7c6438964b3/ANALI.png)
+![image alt](https://github.com/Binbounan/PROYECTO-FINAL-SEM-TRADUCTORES/blob/31b84150a4ff112af14464ddd2112795fd7191da/ANALIZADOR1.png)
