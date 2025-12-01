@@ -17,3 +17,6 @@ LEXICO
 
 
 
+![image alt](https://github.com/Binbounan/PROYECTO-FINAL-SEM-TRADUCTORES/blob/f08aafd7895024735e602183f31ee186e95c9f31/GENERACION.png)
+
+![image alt](https://github.com/Binbounan/PROYECTO-FINAL-SEM-TRADUCTORES/blob/f08aafd7895024735e602183f31ee186e95c9f31/GENERACION1.png)
