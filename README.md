@@ -24,3 +24,12 @@ LEXICO
 
 ![image alt](https://github.com/Binbounan/PROYECTO-FINAL-SEM-TRADUCTORES/blob/f08aafd7895024735e602183f31ee186e95c9f31/SEMANTICO.png)
 
+
+![image alt](https://github.com/Binbounan/PROYECTO-FINAL-SEM-TRADUCTORES/blob/7505eace94b5a7dd8424a3536d11f4f17513d389/error.png)
+
+![image alt](https://github.com/Binbounan/PROYECTO-FINAL-SEM-TRADUCTORES/blob/7505eace94b5a7dd8424a3536d11f4f17513d389/errorcadena.png)
+ERROR 
+
+
+![image alt](https://github.com/Binbounan/PROYECTO-FINAL-SEM-TRADUCTORES/blob/f08aafd7895024735e602183f31ee186e95c9f31/ASM.png)
+ASM 
